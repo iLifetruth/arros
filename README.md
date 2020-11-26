@@ -1,2 +1,2 @@
 # arros
-A RISC-V OS in Rust
+A RISC-V Rust OS 
